@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently studying on Full Stack
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🔭 I’m currently studying Analysis and systems development on Full Stack
+- 🌱 I’m currently learning Java, .NET, C#, JavaScript, HTML and CSS and others
 - 🤔 I’m looking for help with Dev Job
 
 
