@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying Analysis and systems development on Full Stack
-- 🌱 I’m currently learning Java, .NET, C#, JavaScript, HTML and CSS and others
+- 🌱 I’m currently learning Java, .NET, C#, Python, JavaScript, HTML and CSS and others
 - 🤔 I’m looking for help with Dev Job
 
 
