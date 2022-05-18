@@ -6,6 +6,7 @@
 - 🔥 I’m a Junior Full Stack Developer
 - 🌱 I’m currently learning Java, .NET, C#, Python, JavaScript, HTML and CSS and others
 - 😜 I’m looking for Junior job developer
+- 📈 Simple solutions to complex problems
 
 <br>
 
