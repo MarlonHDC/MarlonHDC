@@ -1,17 +1,25 @@
-### Olá! Eu sou Marlon Dias.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marlon Dias</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonHDC&color=yellow" alt="Profile views" /> </p>
 
 
 
-- 🔭 I’m currently studying Analysis and systems development on Full Stack
+- 🔥 I’m a Junior Full Stack Developer
 - 🌱 I’m currently learning Java, .NET, C#, Python, JavaScript, HTML and CSS and others
-- 😜 I’m looking for help with Dev Job
+- 😜 I’m looking for Junior job developer
 
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/MarlonHDC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonHDC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonHDC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <br><br>
+  
+  ## 🛠 &nbsp;Tech Stack
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ja" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -25,12 +33,13 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  <br><br>
+  ## 🙋‍♂️ &nbsp;Social Links
   
   <div>  
     <a href="https://web.whatsapp.com/send?phone=5581982352208"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:marlon.dias@ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marlon-dias-35b918b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marlonhdc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
     
    
