@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Java, .NET, C#, Python, JavaScript, HTML and CSS and others
 - 😜 I’m looking for job developer
 - 📈 Simple solutions to complex problems
+- 📈 AZ-900 Certificate
 
 <br>
 
@@ -32,7 +33,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  
   
   <br><br>
   ## 🙋‍♂️ &nbsp;Social Links
