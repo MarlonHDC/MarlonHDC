@@ -5,7 +5,7 @@
 
 - 🔥 I’m a Back End Developer
 - 🌱 I’m currently learning Java, .NET, C#, Python, JavaScript, HTML and CSS and others
-- 😜 I’m looking for job developer
+- 😜 I'm working at Avanade
 - 📈 Simple solutions to complex problems
 - 📈 AZ-900 Certificate
 
