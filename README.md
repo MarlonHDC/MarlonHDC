@@ -8,6 +8,7 @@
 - 😜 I'm working at Avanade
 - 📈 Simple solutions to complex problems
 - 📈 AZ-900 Certificate
+- 📈 AI-900 Certificate
 
 <br>
 
